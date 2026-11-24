@@ -43,6 +43,7 @@ img,video{max-width:100%}
 .logo{
   color:var(--text);text-decoration:none;
   font-size:24px;font-weight:700;line-height:1;white-space:nowrap;
+  display:inline-block;padding:11px 0;
 }
 .logo span{color:var(--amber)}
 .nav{display:flex;gap:4px;flex-wrap:wrap;justify-content:flex-end}
