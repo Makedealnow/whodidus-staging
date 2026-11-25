@@ -85,6 +85,8 @@ h3{font-size:20px;line-height:1.25;margin:26px 0 10px;font-weight:700}
 }
 .video-md{max-width:340px}
 .video-sm{max-width:300px}
+.video-wide{max-width:520px}
+.video-wide video{aspect-ratio:11/10;object-fit:contain}
 
 /* Buttons */
 .btn{
